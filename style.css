@@ -1,0 +1,377 @@
+.container{
+    
+}
+.fur{
+    
+}
+.fur ul li{
+    padding: 0px 6px 8px 4px;
+    justify-content: left;
+    display: inline-block;
+}
+.log{
+    float: right;
+    position: relative;
+    top: -50px;
+    
+
+}
+.log ul li{
+padding: 0px 6px 8px 4px;
+justify-content: right;
+display: inline-block;
+}
+#fix{
+    color: crimson;
+}
+.the{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-size: 500%;
+margin-left: 5%;
+}
+.play{
+    width: 5%;
+    position: relative;
+    top: 8px;
+}
+.shoes{
+    float: right;
+    position: relative;
+    top: -600px;
+    width: 50%;
+    height: 500px;
+    margin-top: 20%;
+border-radius: 400px  0px 0px 490px;
+    
+    
+}
+.best{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+position: relative;
+top: 250px;
+margin-left: 20%;
+font-size: 300%;
+}
+#puma{
+    width: 20%;
+    position: relative;
+    top: 300px;
+    border-radius: 30px;
+}
+#men{
+    margin-left: 22%;
+    position: relative;
+    top: 200px;
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Tilt Warp', cursive;
+}
+#view{
+    margin: 22%;
+    position: relative;
+    top: -90px;
+}
+.now{
+   
+
+}
+#nike{
+    width: 15%;
+    height: 250px;
+    position: relative;
+    top: -550px;
+    margin-left: 35%;
+    border-radius: 30px;
+}
+#ni{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Tilt Warp', cursive;
+position: relative;
+top: -750px;
+margin-left: 55%;
+}
+#running{
+margin-left: 55%;
+position: relative;
+top: -750px;
+}
+#vi{
+margin-left: 55%;
+position: relative;
+top: -750px;
+}
+.adidas{
+    width: 20%;
+    position: relative;
+    top: -970px;
+    margin-left: 65%;
+    border-radius: 30px;
+    
+}
+.adi{
+    float: right;
+    position: relative;
+    top: -890px;
+    margin-right: 5%;
+}
+.run{
+    float: right;
+    position: relative;
+    top: -1090px;
+}
+.no{
+    position: relative;
+    top:-1000px ;
+    
+}
+#features{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Tilt Warp', cursive;
+position: relative;
+top: -810px;
+text-align: center;
+font-size: 300%;
+}
+#kids{
+    position: relative;
+    top: -800px;
+    margin-left: 5%;
+}
+
+.puma2{
+    width: 20%;
+}
+.shoes3{
+    width: 20%;
+    
+    
+}
+.shoes4{
+    width: 20%;
+}
+.shoes5{
+    width: 35%;
+}
+.shoes7{
+    width: 15%;
+    transform: rotateY(30%);
+}
+.shoes8{
+    width: 20%;
+}
+.shoes9{
+width: 20%;
+}
+.shoes10{
+    width: 50%;
+}
+.shoes11{
+    width: 20%;
+    margin-left: 5%;
+    position: relative;
+    top: -2200px;
+    border-radius: 5px;
+}
+.shoes12{
+    width: 20%;
+    margin-left: 55%;
+    position: relative;
+    top: -2680px;
+    border-radius: 5px;
+}
+.sh50{
+position: relative;
+top: -800px;
+}
+.person{
+    margin-left: 25%;
+    position: relative;
+    top: -1150px;
+}
+.people{
+    margin-left: 45%;
+    position: relative;
+    top: -1420px;
+}
+.many{
+    margin-left: 65%;
+    position: relative;
+    top: -1700px;
+}
+.coming{
+    
+    position: relative;
+    top: -1610px;
+}
+.mass{
+    margin-left: 23%;
+    position: relative;
+    top: -1880px;
+}
+.copy{
+    margin-left: 45%;
+    position: relative;
+    top: -2200px;
+}
+.carry{
+    margin-left: 65%;
+    position: relative;
+    top: -2500px;
+}
+.se{
+    text-align: center;
+    position: relative;
+    top: -2400px;
+    
+}
+.semo{
+    width: 10%;
+    padding: 12px;
+    border-radius: 5%;
+    background-color: white;
+    color: crimson;
+    border-color: crimson;
+}
+.arrive{
+    text-align: center;
+    position: relative;
+    top: -2300px;
+    font-size: 300%;
+}
+.newarrive{
+margin-left: 30%;
+position: relative;
+top: -2420px;
+}
+.specialO{
+    margin-left: 80%;
+    position: relative;
+    top: -2920px;
+}
+.test{
+    position: relative;
+    top: -2780px;
+}
+.girl{
+    width: 5%;
+    border-radius: 65px;
+    
+}
+.lorem{
+    float: right;
+    position: relative;
+    top: -2800px;
+
+}
+.subscribe{
+    margin-left: 20%;
+    position: relative;
+    top: -2500px;
+    background-color:pink;
+    width: 70%;
+    height: 300px;
+    border-radius: 15px;
+    text-align: center;
+}
+.impsum ul li{
+    margin-left: 5%;
+    position: relative;
+    top: -2400px;
+    display: inline-block;
+
+
+}
+#fu{
+    transform: translateY(-65px);
+    padding-left: 35px;
+}
+#to{
+    margin-left: 5%;
+    position: relative;
+    top: 100px;
+}
+#enter{
+    position: relative;
+    top: 90px;
+    width: 20%;
+    padding: 5px;
+}
+#sub{
+    position: relative;
+    top: 90px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: crimson;
+    color: white;
+}
+.mobile ul li{
+
+list-style: none;
+margin-left: 45%;
+position: relative;
+top: -2500px;
+
+
+}
+.press ul li{
+    list-style: none;
+    margin-left: 65%;
+    position: relative;
+    top: -2600px;
+}
+.low{
+    list-style: none;
+    margin-left: 75%;
+    position: relative;
+    top: -2690px;
+}
+.footer{
+    background-color: blue;
+}
+#testi{
+    color: crimson;
+    float: left;
+}
+#what{
+    font-size: 300%;
+float: left;
+    position: relative;
+    top: 55px;
+    
+}
+#home1{
+color: crimson;
+}
+.foot{
+    background-color: crimson;
+}
+    
